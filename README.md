@@ -1,5 +1,5 @@
 # A03
-## PART I - Directions on using Webstorm
+### PART I - Directions on using Webstorm
   1. Download & install Webstorm
   2. Download & install Git
   3. Create a Github account
