@@ -11,7 +11,7 @@
   9. Now to connect your Github account by selecting the Git tab > Github > Share on Github. This         should open a window where you can confirm that you want to share your account with Webstorm 
   11. Now go to the Git tab > click Commit, select your files, add a comment then click commit 
   12. Lastly, you want to go to the Git tab again > click Push then click push again
-
+ 
 
 
 ### PART II - 
