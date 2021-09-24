@@ -18,24 +18,24 @@ PART II -
 
  * **Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
 
-**Clone**  - a second version of your repo that is on your computer. You can stil edit the clone, but it won't effect anything until you push it. 
+ * **Clone**  - a second version of your repo that is on your computer. You can stil edit the clone, but it won't effect anything until you push it. 
 
-**Commit**  - it saves any changes you've made on your local repo
+ * **Commit**  - it saves any changes you've made on your local repo
 
-**Fetch**  - when you want to get the most recent changes from your remote repo
+ * **Fetch**  - when you want to get the most recent changes from your remote repo
 
-**GIT**  - a program that keeps track the changes you make to your files/ repos
+ * **GIT**  - a program that keeps track the changes you make to your files/ repos
 
-**Github**  - a server that lets you work with other people on coding projects 
+ * **Github**  - a server that lets you work with other people on coding projects 
 
-**Merge**  - when you want to combine the data of two branches 
+ * **Merge**  - when you want to combine the data of two branches 
 
-**Merge Conflict**  - when a merge cannot happen because there is a problem with one of the files/ branches
+ * **Merge Conflict**  - when a merge cannot happen because there is a problem with one of the files/ branches
 
-**Push**  - after you commit, you push the repo to your remote repo
+ * **Push**  - after you commit, you push the repo to your remote repo
 
-**Pull**  - when you want to bring the changes from your remote repo to your local repo
+ * **Pull**  - when you want to bring the changes from your remote repo to your local repo
 
-**Remote**  - a copy of the repo on a server
+ * **Remote**  - a copy of the repo on a server
 
-**Repository**  - the main "folder" that holds your entire project. 
+ * **Repository**  - the main "folder" that holds your entire project. 
