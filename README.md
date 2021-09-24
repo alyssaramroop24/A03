@@ -14,26 +14,26 @@ PART I - Directions on using Webstorm
 
 
 
-**Branch**  blah
+**Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
 
-**Clone**
+**Clone**  - a second version of your repo that is on your computer. You can stil edit the clone, but it won't effect anything until you push it. 
 
-**Commit**
+**Commit**  - it saves any changes you've made on your local repo
 
-**Fetch**
+**Fetch**  - when you want to get the most recent changes from your remote repo
 
 **GIT**
 
-**Github**
+**Github** 
 
-**Merge**
+**Merge**  - when you want to combine the data of two branches 
 
-**Merge Conflict**
+**Merge Conflict**  - when a merge cannot happen because there is a problem with one of the files/ branches
 
-**Push**
+**Push**  - after you commit, you push the repo to your remote repo
 
-**Pull**
+**Pull**  - when you want to bring the changes from your remote repo to your local repo
 
-**Remote**
+**Remote**  - a copy of the repo on a server
 
-**Repository**
+**Repository**  - the main "folder" that holds your entire project. 
