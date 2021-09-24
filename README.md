@@ -13,7 +13,7 @@ PART I - Directions on using Webstorm
 
 **Commit**
 
-**Fetch
+**Fetch**
 
 **GIT**
 
