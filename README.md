@@ -14,7 +14,7 @@
 
 
 
-## PART II - 
+### PART II - 
 
  * **Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
 
