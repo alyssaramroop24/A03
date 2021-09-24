@@ -14,7 +14,9 @@ PART I - Directions on using Webstorm
 
 
 
-**Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
+PART II - 
+
+*Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
 
 **Clone**  - a second version of your repo that is on your computer. You can stil edit the clone, but it won't effect anything until you push it. 
 
