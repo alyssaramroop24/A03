@@ -1,7 +1,7 @@
 # A03
 ### PART I - Directions on using Webstorm
-  1. Download & install Webstorm
-  2. Download & install Git
+  1. Download & install Webstorm   https://www.jetbrains.com/webstorm/download/#section=windows
+  2. Download & install Git   https://git-scm.com/downloads
   3. Create a Github account
   4. In Webstorm, open the system prefences. 
   5. Under 'Version Control', click Git
