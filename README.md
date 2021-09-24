@@ -1,5 +1,5 @@
 # A03
-# PART I - Directions on using Webstorm
+## PART I - Directions on using Webstorm
   1. Download & install Webstorm
   2. Download & install Git
   3. Create a Github account
@@ -14,7 +14,7 @@
 
 
 
-# PART II - 
+## PART II - 
 
  * **Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
 
