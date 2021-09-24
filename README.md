@@ -16,7 +16,7 @@ PART I - Directions on using Webstorm
 
 PART II - 
 
-*Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
+ * **Branch**  - a branch is similar to a repository. You can do the make changes to the branch without altering the main branch. These chnages can be merged later on if you want. 
 
 **Clone**  - a second version of your repo that is on your computer. You can stil edit the clone, but it won't effect anything until you push it. 
 
@@ -24,9 +24,9 @@ PART II -
 
 **Fetch**  - when you want to get the most recent changes from your remote repo
 
-**GIT**
+**GIT**  - a program that keeps track the changes you make to your files/ repos
 
-**Github** 
+**Github**  - a server that lets you work with other people on coding projects 
 
 **Merge**  - when you want to combine the data of two branches 
 
