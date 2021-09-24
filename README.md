@@ -8,14 +8,25 @@ PART I - Directions on using Webstorm
 
 
 **Branch**  blah
+
 **Clone**
+
 **Commit**
+
 **Fetch
+
 **GIT**
+
 **Github**
+
 **Merge**
+
 **Merge Conflict**
+
 **Push**
+
 **Pull**
+
 **Remote**
+
 **Repository**
